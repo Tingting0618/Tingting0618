@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I like simplicity and straightforwardness
+🌱 I like simplicity, clarity, and straightforwardness
 <!--
 **Tingting0618/Tingting0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

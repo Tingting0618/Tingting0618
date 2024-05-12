@@ -1,9 +1,10 @@
 ### Hi there 👋
+<!--
 - 🌱 I value simplicity, clarity, and straightforwardness.
 - 👯 I mostly enjoy automating data and analysis, from data collection (i.e., web scraping), to large-scale model testing (i.e., running hundreds or thousands of various scenarios and seeing the model performances/distributions) to productize/operationalize models.
 - 😄 Technologies I've worked in: Python (Web Scraping and Machine Learning), SQL, SAS, Tableau/PowerBI, Excel VBA/macro
 - 😉 Technologies I've used: R, HTML, CSS, Javascript, React.js, Django
-<!--
+
 **Tingting0618/Tingting0618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
